@@ -4,8 +4,7 @@ Este projeto detecta URLs suspeitas que imitam o site da CAESB usando Python + P
 
 ### Tecnologias
 
-- Python 3
-- BeautifulSoup
+- Python
 - PowerShell
 - JSON
 - GitHub
