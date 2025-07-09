@@ -1,9 +1,6 @@
 {
-  "suspeitas_detectadas_em": "2025-07-08 10:37:22",
-  "urls_suspeitas": [
-    "http://caesb-conta-segunda.site.com",
-    "https://portalcaesb-servicos.xyz"
-  ],
-  "dominio_oficial": "www.caesb.df.gov.br",
-  "status": "anomalía_detectada"
+    "suspeitas_detectadas_em": "2025-07-09 10:08:58",
+    "urls_suspeitas": [],
+    "dominio_oficial": "www.caesb.df.gov.br",
+    "status": "nenhuma_anomalia"
 }
